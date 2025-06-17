@@ -1,72 +1,69 @@
-TUDU Product Vision
-Objective
-Design a digital platform that allows students to delegate their university projects to other qualified students or freelancers, in exchange for payment. This marketplace aims to simplify the management of complex and time-consuming assignments by connecting those who want to outsource their projects with those who can complete them efficiently.
+# TUDU – Product Vision
 
-Key Features
-1. Authentication & Onboarding
-Secure sign-up and login system (email, password, etc.).
+## 🎯 Objective
 
-After registration, users are prompted to complete their profile (name, university, skills, etc.).
+TUDU is a digital platform designed to let students delegate their university projects to other qualified students or freelancers, in exchange for payment.  
+This marketplace simplifies the management of complex and time-consuming assignments by connecting those who want to outsource their projects with those capable of completing them efficiently.
 
-If the profile is already complete, the user is automatically redirected to their personal dashboard.
+---
 
-2. User Interface
+## 🚀 Key Features
+
+### 🔐 Authentication & Onboarding
+- Secure sign-up and login system (email, password, etc.).
+- Upon registration, users are prompted to complete their profile (name, university, skills, etc.).
+- If the profile is already complete, users are redirected automatically to their personal dashboard.
+
+### 🧭 User Interface
 An intuitive interface with a sidebar to navigate between:
+- **My Orders**: projects created by the user.
+- **Work to Do**: projects the user has accepted.
+- **Marketplace**: list of open projects available for application.
+- **Profile**: personal info, skills, history, etc.
 
-My Orders: projects created by the user.
+---
 
-Work to Do: projects the user has accepted.
+## ⚙️ Business Features
 
-Marketplace: list of open projects available for applications.
+### 📁 Project Creation & Management
+Users can create a project by specifying:
+- Title  
+- Description  
+- Required skills  
+- Attachments  
 
-Profile: personal info, skills, history, etc.
+Once published, the project is listed in the marketplace.  
+The creator can monitor its progress through the **My Orders** page.
 
-Business Features
-3. Project Creation & Management
-Users can create a project with:
+---
 
-Title
-
-Description
-
-Required skills
-
-Attachments
-
-Once published, the project appears in the marketplace.
-
-The creator can track its progress through the “My Orders” page.
-
-4. Project Lifecycle
+### 🔄 Project Lifecycle
 Each project follows a standardized 5-stage lifecycle:
+1. **Draft**: project is being written.
+2. **Open for Applications**: visible on the marketplace.
+3. **In Progress**: a provider has been selected.
+4. **In Review**: project has been delivered and is awaiting approval.
+5. **Completed / Cancelled**: project is either finalized or interrupted.
 
-Draft: project is being written.
+---
 
-Open for Applications: visible on the marketplace.
+### 💰 Selection Process & Secure Payment
+- Interested users can apply to open projects.
+- The project creator selects one provider among the applicants.
+- Upon selection, client funds are held in **escrow**.
+- The project status changes to **In Progress**, and a dedicated chat is activated.
 
-In Progress: a provider has been selected.
+---
 
-In Review: project has been delivered, awaiting approval.
+### 💬 Integrated Messaging
+- Real-time chat system between the project owner and the provider.
+- Centralized exchange of messages and files.
 
-Completed / Cancelled: project is either finalized or interrupted.
+---
 
-5. Selection Process & Secure Payment
-Interested users can apply to an open project.
+### ✅ Delivery, Validation & Payment
+- Once the delivery is made, the client may request a revision or approve the project.
+- Upon approval, funds are released to the provider.
+- In case of disputes, a support system may be implemented later.
 
-The project creator selects a provider among the applicants.
-
-Upon selection, client funds are held in escrow.
-
-The project status changes to "In Progress", and a dedicated chat opens.
-
-6. Integrated Messaging
-Real-time chat system between the project owner and the provider.
-
-Centralized exchange of messages and files.
-
-7. Delivery, Validation & Payment
-Once delivered, the client may request a revision or approve the project.
-
-Upon approval, funds are released to the provider.
-
-In case of disputes, a support system may be implemented later.
+---
