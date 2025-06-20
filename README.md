@@ -6,7 +6,15 @@ TUDU is a digital platform designed to let students delegate their university pr
 This marketplace simplifies the management of complex and time-consuming assignments by connecting those who want to outsource their projects with those capable of completing them efficiently.
 
 ---
+##Bear in mind
 
+What will set you apart?
+** Inventive features that transcend the brief
+* Clean, modern UX / UI that feels premium out of the box
+* Bulletproof architecture and thoughtful documentation
+* Relentless polish under extreme time pressure (7 days, tick-tock)**
+  
+---
 ## Key Features
 
 ### Authentication & Onboarding
