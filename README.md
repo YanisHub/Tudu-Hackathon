@@ -58,7 +58,7 @@ Each project follows a standardized 6-stage lifecycle:
 
 ---
 
-### Selection Process & Secure Payment
+### Selection Process & Secure Payment (using Stripe or any other alternatives)
 
 * Interested users can apply to open projects.
 * The project creator selects one provider among the applicants.
