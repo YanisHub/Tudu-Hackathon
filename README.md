@@ -1,9 +1,8 @@
-# TUDU – Product Vision
+# TuDu – Product Vision
 
 ## Objective
 
-TUDU is a digital platform designed to let students delegate their university projects to other qualified students or freelancers, in exchange for payment.
-This marketplace simplifies the management of complex and time-consuming assignments by connecting those who want to outsource their projects with those capable of completing them efficiently.
+TuDu is a digital marketplace that enables students to invite qualified collaborators to help with school projects. By matching learners who need support on complex or time-consuming assignments with peers who have the right skills, TuDu streamlines project management and fosters productive, ethically sound teamwork.
 
 ---
 ## Bear in mind
@@ -12,7 +11,7 @@ What will set you apart?
 * **Inventive features that transcend the brief**
 * **Clean, modern UX / UI that feels premium out of the box**
 * **Bulletproof architecture and thoughtful documentation**
-* **Relentless polish under extreme time pressure (7 days, tick-tock)**
+* **Relentless polish under extreme time pressure (14 days, tick-tock)**
   
 ---
 ## Key Features
