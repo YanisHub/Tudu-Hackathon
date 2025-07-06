@@ -2,7 +2,7 @@
 
 ## Objective
 
-TuDu is a digital marketplace that enables students to invite qualified collaborators to help with school projects. By matching learners who need support on complex or time-consuming assignments with peers who have the right skills, TuDu streamlines project management and fosters productive, ethically sound teamwork.
+TuDu is a digital marketplace that enables students to invite qualified collaborators to help with school projects. By matching learners who need support on complex or time-consuming assignments with peers who have the right skills, TuDu streamlines project management and fosters teamwork.
 
 ---
 ## Bear in mind
@@ -10,8 +10,9 @@ TuDu is a digital marketplace that enables students to invite qualified collabor
 What will set you apart?
 * **Inventive features that transcend the brief**
 * **Clean, modern UX / UI that feels premium out of the box**
-* **Bulletproof architecture and thoughtful documentation**
+* **Bulletproof architecture, thoughtful documentation and scalable tech stack**
 * **Relentless polish under extreme time pressure (14 days, tick-tock)**
+* **Team size up to 2 (full-stack dev, UI/UX). You may participate alone; this will be taken into account when determining the leaderboard**
   
 ---
 ## Key Features
@@ -25,7 +26,7 @@ What will set you apart?
 
 An intuitive interface with navigation between:
 
-* **My Orders**: projects created by the user.
+* **My Projects**: projects created by the user.
 * **Work to Do**: projects the user has accepted.
 * **Marketplace**: list of open projects available for application.
 * **Profile**: personal info, skills, history, etc.
